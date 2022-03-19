@@ -1,0 +1,53 @@
+S.A.L.E                       (bouton'collaspe')  Accueil     Evènements
+
+Image elfe
+
+
+Société d'aide à la libération des elfes (S.A.L.E) h1
+
+h2.Engagé contre la maltraitance des elfes.
+p. En effet les elfes étant les serviteurs des sorciers, suites à certaines lois magiques qui les empêchent de manquer à leur devoir, ils subissent de nombreuses maltraitances. Nous mettons en œuvre un plan d'action pour libérer les elfes de leurs chaines.
+
+h2. Libérer les elfes.
+
+h3.Lois et coutumes magiques.
+p. Selon les lois et coutumes magiques si le "propriétaire" d'un elfe offre un vêtement à son serviteur celui-ci considèrera qu'il est désormais libre. Il ne sera donc plus obliger d'obéir à son maitre.
+
+h3.Collecte de chaussettes.
+Dans le but de les aider, notre association récolte le maximum de chaussettes, dans le but de piéger les propriétaires d'elfe en leur faisant donner une chaussette à leur serviteur et ainsi les libérer.
+
+H2. Assurer le transport des chaussettes à leur destination.
+Nous recherchons des bénévoles possédants leur propre balai pour effectuer des livraisons partout dans le pays. Pour participer veuillez remplir le formulaire a droite.
+
+Profil recherchés : 
+Bon conducteur de balai
+Avoir le sens de l’orientation
+Et aimer les elfes bien sûr !
+
+=========== page 2
+
+Evènement 
+
+Card1:
+Collecte de dons de chaussette à Pré-au-lard
+Suite au manque de chaussette pour l'année 2022, nous avons décidé d'organiser une collecte de dons pour toujours plus de chaussette pour libérer nos amis !
+Notre objectif est de collecter 100 000 paires de chaussettes !
+Un buffet à la grande salle et feu d'artifice magique pour les participants alors venez nombreux !
+Nous recherchons aussi des bénévoles pour effectuer la collecte, si vous êtes intéressé veuillez cliquer a. Ici.
+
+Card2:
+23ème tournoi de Quidditch.
+
+Ce week-end débutera le 23ème tournoi de Quidditch dans l'enceinte de Poudlard. Le premier match, qui opposera la maison Gryfondor à Serpentard, s'annonce exceptionnel cette année même si la maison Grynfondor part avec un avantage grâce à Harry Potter et son Eclair de feu !
+Malgré tout Drago Malefoy ne se laissera pas faire, l'année dernière ils avaient adopté un style de jeu très agressif et il semble que ce sera pire cette année!
+
+Card3:
+Tournoi des 3 sorciers.
+Nous connaissons enfin les noms de nos trois sorciers. Mais surprise ! Pour ce tournoi nous avons 4 participants au lieu de 3 ! Comment est-ce possible ?
+Le 4ème participant est harry potter, il a pu être choisi par la coupe de feu malgré le fait qu'il soit mineur. A-t-il triché ? Nous en saurons plus après l'expertise de Dumbledore.
+
+Card4 : 
+Concours du sourire le plus charmeur.
+Dans trois jours aura lieu le concours du plus beau sourire organisé par Sorcière-Hebdo.
+Le champion en titre étant le fameux Gilderoy Lockhart élu 5 fois lauréat du sourire le plus charmeur, on s’attend a le revoir cette année bien sûr. La superstar étant présente à Poudlard, vous pouvez des a présent accéder a ses séances de dédicaces. Même si il ne fait aucun doute concernant sa victoire, il se peut que cette année nous réserve des surprises.
+
