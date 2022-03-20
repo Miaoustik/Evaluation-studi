@@ -1,7 +1,7 @@
 .main {
     background-color: #EEEEEE;
 }
-.footer, .navbar, #header {
+.footer, .navbar, #header, .btn-card {
     background-color: #D2AFA8;
 }
 h1, h2 {
@@ -16,9 +16,6 @@ h2 {
 }
 body {
     margin-top: 3.5em;
-}
-.btn-card {
-    background-color: #D2AFA8;
 }
 img {
     height: 300px;
