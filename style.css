@@ -14,3 +14,12 @@ h2 {
 .p {
     text-align: justify;
 }
+body {
+    margin-top: 3.5em;
+}
+.btn-card {
+    background-color: #D2AFA8;
+}
+img {
+    height: 300px;
+}
